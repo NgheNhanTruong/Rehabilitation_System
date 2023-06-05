@@ -1,4 +1,4 @@
-volatile unsigned int temp, counter = 0; //This variable will increase or decrease depending on the rotation of encoder
+volatile int temp, counter = 0; //This variable will increase or decrease depending on the rotation of encoder
     
 void setup() 
 {
