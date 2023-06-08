@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="Background_image">
+    <file>BGR-1-01.jpg</file>
+    <file>PAGE-1-BUTTON-16.jpg</file>
+    <file>BGR-02.jpg</file>
+    <file>PAGE-1-BUTTON-19.png</file>
+    <file>PAGE-2-BUTTON-17.png</file>
+    <file>PAGE-2-BUTTON-18.png</file>
+  </qresource>
+</RCC>
